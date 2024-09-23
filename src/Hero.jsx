@@ -6,7 +6,7 @@ export default function Hero(){
             <div className="animated-box">
             Over 3 million ready-to-work creatives!
             </div>
-            <div className="h1s">The world’s destination <br /> for design</div>
+            <div className="h1s">The world’s destination😂😂😂😂😂 <br /> for design</div>
             <div className="subTitle">Get inspired by the work of millions of top-rated designers & agencies around the world.</div>
             <div className="get-started">Get started</div>
         </div>
