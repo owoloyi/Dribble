@@ -11,7 +11,7 @@ export default [
         name: "Victa Wille",
         job: "Digital Designer",
         role: ["Mobile", "UI", "Web"],
-        image: "/img2.webp",
+        image: "img2.webp",
     },
     {
         id : 3,
